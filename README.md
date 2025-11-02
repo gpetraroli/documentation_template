@@ -10,3 +10,7 @@
 
 ## Sphinx documentation
 https://www.sphinx-doc.org/en/master/index.html#
+
+## Cheatsheets
+- [reStructuredText](https://bashtage.github.io/sphinx-material/rst-cheatsheet/rst-cheatsheet.html) 
+- [Markdown](https://www.markdownguide.org/cheat-sheet/)
